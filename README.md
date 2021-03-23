@@ -25,7 +25,7 @@ These are some of the trials with the best results. Code and specific hyperparam
 
 ## YoloV3 Model In Action
 
-These are some videos of a test run of these trained models on Zeus, our self driving car at the University of Toronto Institute for Aerospace Studies (UTIAS). 
+These are some videos of a test run of these trained models on Zeus, our self driving car at the University of Toronto Institute for Aerospace Studies (UTIAS). The videos were taken by the blackfly cameras on Zeus.
 
 <p align="center">
   <img src="Images/blackfly_image_color_compressed_yolov3_inference.gif" alt="GSCNN" title="GSCNN" height="300" />
