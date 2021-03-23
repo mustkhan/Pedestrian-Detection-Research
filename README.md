@@ -13,7 +13,7 @@ My task was to improve upon the results of Zeus, whose current lane detection sy
 ## Summary Of Results
 
 These are some of the trials with the best results. Code and specific hyperparameters to be shared here once I get approval about what can and can't be made open source. Since we are currently still competing with our car in the SAE Autodrive Challenge, this may take some time. Thanks for understanding!
-<center>
+
 | Dataset     | Hyperparameters | Max mAP       | Precision On JAAD Valid. | Recall On JAAD Valid.  |
 |  :----:     |    :----:       |   :----:      |        :----:            |          :----:        |
 | JAAD        |     ...         |   83.70%      |        97.53%            |        83.89%          |      
@@ -21,7 +21,7 @@ These are some of the trials with the best results. Code and specific hyperparam
 | JAAD+Scale  |     ...         |   83.58%      |        89.46%            |        83.98%          |      
 | JAAD+Scale  |     ...         |   83.23%      |        93.84%            |        83.54%          |   
 | JAAD+NuScenes+Scale  |     ...         |   78.97%      |        88.96%            |        79.51%          |   
-</center>
+
 
 ## YoloV3 Model In Action
 
