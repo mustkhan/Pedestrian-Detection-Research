@@ -2,7 +2,7 @@
     <img src="Images/logo.png" alt="aUToronto" title="aUToronto" align="right" height="100" />
 </a>
 
-# Pedestrian🚶Detection Research | aUToronto 🚙
+# Pedestrian Detection🚶Research | aUToronto 🚙
 
 ## Introduction
 
