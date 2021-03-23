@@ -6,9 +6,9 @@
 
 ## Introduction
 
-The focus of this research project is to develop the pedestrian detection capabilities of Zeus, the self driving car at aUToronto. As a member of the Perception Team at aUToronto I work to meet the milestone goals set by my team leads and the advising professors including but not limited to Dr. Angela Schoellig and Dr. Tim Barfoot from the University Of Toronto. 
+The focus of this research project is to develop the pedestrian detection capabilities of Zeus, the self driving car at aUToronto. As a member of the Perception Team at aUToronto I work to meet the milestone goals set by my team leads and the advising professors including but not limited to [Dr. Angela Schoellig](https://www.dynsyslab.org/prof-angela-schoellig/) and [Dr. Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/) from the University Of Toronto. 
 
-My task along with Brian Cheong and Davendra Maharaj was to improve Zeus's existing pedestrian detection system which was based off of Squeezdet and replace it with a YoloV3 model with newly trained weights and fine tuned hyperparameters. [YoloV3](https://arxiv.org/pdf/1804.02767.pdf) is the latest variant of a popular object detection algorithm YOLO – You Only Look Once. It is extremely powerful and useful for real time object detection tasks and so was employed for the purpose of pedestrian detection in this project.
+My task along with [Brian Cheong](https://www.google.com/url?sa=i&url=https%3A%2F%2Fca.linkedin.com%2Fin%2Fbrian-cheong-36444517a&psig=AOvVaw3Qyh7_xY9BiQ8tx7N50ZXn&ust=1616559669719000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCJju7ZjIxe8CFQAAAAAdAAAAABAD) and [Davendra Maharaj](https://www.linkedin.com/in/davendra-seunarine-maharaj-218023152/?originalSubdomain=ca) was to improve Zeus's existing pedestrian detection system which was based off of Squeezdet and replace it with a YoloV3 model with newly trained weights and fine tuned hyperparameters. [YoloV3](https://arxiv.org/pdf/1804.02767.pdf) is the latest variant of a popular object detection algorithm YOLO – You Only Look Once. It is extremely powerful and useful for real time object detection tasks and so was employed for the purpose of pedestrian detection in this project.
 
 ## Summary Of Results
 
