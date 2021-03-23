@@ -6,9 +6,9 @@
 
 ## Introduction
 
-The focus of this research project is to develop the lane detection capabilities of Zeus, the self driving car at aUToronto. As a member of the Perception Team at aUToronto I work to meet the milestone goals set by my team leads and the advising professors including but not limited to Prof. Angela Schoellig and Prof. Tim Barfoot from the University Of Toronto.
+The focus of this research project is to develop the pedestrian detection capabilities of Zeus, the self driving car at aUToronto. As a member of the Perception Team at aUToronto I work to meet the milestone goals set by my team leads and the advising professors including but not limited to Dr. Angela Schoellig and Dr. Tim Barfoot from the University Of Toronto. 
 
-My task was to improve upon the results of Zeus, whose current lane detection system runs on the [GSCNN](https://github.com/nv-tlabs/GSCNN), a powerful network architecture created by the Toronto Nvidia AI Lab. 
+My task along with Brian Cheong and Davendra Maharaj was to improve Zeus's existing pedestrian detection system which was based off of Squeezdet and replace it with a YoloV3 model with newly trained weights and fine tuned hyperparameters. [YoloV3](https://arxiv.org/pdf/1804.02767.pdf) is the latest variant of a popular object detection algorithm YOLO – You Only Look Once. It is extremely powerful and useful for real time object detection tasks and so was employed for the purpose of pedestrian detection in this project.
 
 ## Summary Of Results
 
