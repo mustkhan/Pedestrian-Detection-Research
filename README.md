@@ -31,7 +31,7 @@ These are some videos of a test run of these trained models on Zeus, our self dr
   <img src="Images/blackfly_image_color_compressed_yolov3_inference.gif" alt="GSCNN" title="GSCNN" height="300" />
 </p>
 
-The trained YoloV3 model detects pedestrians well, however, there are false positives on dark objects in the white snow and, qualitatively, it appears as if detection performance is less confident on objects that are far away.
+The trained YoloV3 model detects pedestrians well, however, there are false positives on dark objects in the white snow and it qualitatively appears as if detection performance is less confident on objects that are far away.
 
 <p align="center">
   <img src="Images/blackfly_image_color_compressed_yolov3_inference_2.gif" alt="GSCNN" title="GSCNN" height="300" />
