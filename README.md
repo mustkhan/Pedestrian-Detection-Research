@@ -14,13 +14,13 @@ My task along with [Brian Cheong](https://www.google.com/url?sa=i&url=https%3A%2
 
 These are some of the trials with the best results. Code and specific hyperparameters to be shared here once I get approval about what can and can't be made open source. Since we are currently still competing with our car in the SAE Autodrive Challenge, this may take some time. Thanks for understanding!
 
-| Dataset     | Hyperparameters | Max mAP       | Precision On JAAD Valid. | Recall On JAAD Valid.  |
-|  :----:     |    :----:       |   :----:      |        :----:            |          :----:        |
-| JAAD        |     ...         |   83.70%      |        97.53%            |        83.89%          |      
-| JAAD        |     ...         |   81.30%      |        98.34%            |        81.26%          |   
-| JAAD+Scale  |     ...         |   83.58%      |        89.46%            |        83.98%          |      
-| JAAD+Scale  |     ...         |   83.23%      |        93.84%            |        83.54%          |   
-| JAAD+NuScenes+Scale  |     ...         |   78.97%      |        88.96%            |        79.51%          |   
+| Dataset     | Hyperparameters | Max mAP       |
+|  :----:     |    :----:       |   :----:      |
+| JAAD        |     ...         |   83.70%      |   
+| JAAD        |     ...         |   81.30%      |
+| JAAD+Scale  |     ...         |   83.58%      |    
+| JAAD+Scale  |     ...         |   83.23%      |   
+| JAAD+NuScenes+Scale  |     ...         |   78.97%      |  
 
 
 ## YoloV3 Model In Action
